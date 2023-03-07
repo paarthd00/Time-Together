@@ -4,7 +4,7 @@ import * as React from "react"
 const IndexPage = () => {
   return (
     <main>
-      <h1>Time Together</h1>  
+      <h1>Time Together!!!!!</h1>  
     </main>
   )
 }
