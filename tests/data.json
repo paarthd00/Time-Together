@@ -1,0 +1,126 @@
+{
+    "users": {
+        "1": {
+            "userName": "Jack",
+            "password": "1234"
+        },
+        "2": {
+            "userName": "Moo",
+            "password": "4331"
+        },
+        "3": {
+            "userName": "Jane",
+            "password": "abc123"
+        },
+        "4": {
+            "userName": "John",
+            "password": "qwerty"
+        },
+        "5": {
+            "userName": "Alice",
+            "password": "1qaz2wsx"
+        },
+        "6": {
+            "userName": "Bob",
+            "password": "2wsx3edc"
+        },
+        "7": {
+            "userName": "Karen",
+            "password": "zaq1xsw2"
+        },
+        "8": {
+            "userName": "David",
+            "password": "xsw2zaq1"
+        },
+        "9": {
+            "userName": "Linda",
+            "password": "p@ssw0rd"
+        },
+        "10": {
+            "userName": "Mark",
+            "password": "letmein"
+        },
+        "11": {
+            "userName": "Amy",
+            "password": "sunshine"
+        },
+        "12": {
+            "userName": "Chris",
+            "password": "password1"
+        },
+        "13": {
+            "userName": "Emily",
+            "password": "abcd1234"
+        },
+        "14": {
+            "userName": "Frank",
+            "password": "changeme"
+        },
+        "15": {
+            "userName": "Grace",
+            "password": "123456"
+        },
+        "16": {
+            "userName": "Henry",
+            "password": "987654"
+        },
+        "17": {
+            "userName": "Iris",
+            "password": "hello123"
+        },
+        "18": {
+            "userName": "Kevin",
+            "password": "password123"
+        },
+        "19": {
+            "userName": "Nancy",
+            "password": "qwerty123"
+        },
+        "20": {
+            "userName": "Oliver",
+            "password": "letmein123"
+        }
+    },
+    "events": [
+        {
+            "id": 101,
+            "users": [
+                "1",
+                "2"
+            ],
+            "eventName": "uninstall",
+            "eventDescription": "Throw OS distro where it belongs",
+            "eventDate": "2023-02-10"
+        },
+        {
+            "id": 102,
+            "users": [
+                "3",
+                "4"
+            ],
+            "eventName": "Movie Night",
+            "eventDescription": "Watch a classic movie together",
+            "eventDate": "2023-03-15"
+        },
+        {
+            "id": 103,
+            "users": [
+                "5",
+                "6"
+            ],
+            "eventName": "Hiking Trip",
+            "eventDescription": "Explore the great outdoors",
+            "eventDate": "2023-04-20"
+        },
+        {
+            "id": 104,
+            "users": [
+                "7",
+                "8"
+            ],
+            "eventName": "Game Night",
+            "eventDescription": "Compete in various board games",
+            "eventDate": "2023-05-25"
+        }
+    ]
+}
